@@ -1,0 +1,15 @@
+body {
+    font-size: 20px
+}
+
+body{
+    background-image:url("img/oregon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body { color: gold;
+}
+
+h3 { color: green;
+}

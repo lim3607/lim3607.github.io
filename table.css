@@ -1,0 +1,15 @@
+body{
+    background-image:url("img/carter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body { color: orange;
+}
+
+a { color: white;
+}
+
+body {
+    font-size: 20px
+}
